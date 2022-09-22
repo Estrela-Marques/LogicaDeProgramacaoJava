@@ -1,4 +1,4 @@
-# Logica de Programacao Java - Capitulo 1 e Capitulo 2
+# Lógica de Programacao Java - Capitulo 1 e Capitulo 2
 
 Temas abordados:
 
